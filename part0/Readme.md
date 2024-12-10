@@ -6,3 +6,4 @@
 ### Mis soluciones:
 - [0.4: Nuevo diagrama de nota](04_Nuevo_Diagrama_de_nota.md)
 - [0.5: Diagrama de aplicación de una sola página](05_Diagrama_de_aplicacion_de_una_sola_pagina.md)
+- [0.6: Nueva nota en diagrama de aplicación de una sola pagina](06_Nueva_Nota_en_diagrama_de_aplicacion_de_una_sola_pagina.md)
