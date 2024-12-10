@@ -5,3 +5,4 @@
 - [Ejercicios](https://fullstackopen.com/es/part0/fundamentos_de_las_aplicaciones_web#ejercicios-0-1-0-6)
 ### Mis soluciones:
 - [0.4: Nuevo diagrama de nota](04_Nuevo_Diagrama_de_nota.md)
+- [0.5: Diagrama de aplicación de una sola página](05_Diagrama_de_aplicacion_de_una_sola_pagina.md)
