@@ -28,7 +28,7 @@ https://studies.cs.helsinki.fi/exampleapp/notes
         server->>browser: JSON data
 
     
-         browser->>server: GET https://studies.cs.helsinki.fi/favicon.ico
+        browser->>server: GET https://studies.cs.helsinki.fi/favicon.ico
         server->>browser: 404 Not Found
 
 
