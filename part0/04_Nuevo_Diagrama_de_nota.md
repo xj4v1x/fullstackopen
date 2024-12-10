@@ -1,7 +1,7 @@
 # 0.4: Nuevo diagrama de nota
 
 https://studies.cs.helsinki.fi/exampleapp/notes
-
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -36,7 +36,7 @@ sequenceDiagram
     server >>> browser : 404 Not Found
     deactivate server
 
-```mermaid
+
 sequenceDiagram
     participant browser
     participant server
