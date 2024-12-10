@@ -6,10 +6,10 @@ https://studies.cs.helsinki.fi/exampleapp/notes
         participant browser
         participant server
     
-        browser ->> server: GET https://studies.cs.helsinki.fi/exampleapp/notes
+        browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes
             Estado 200 OK
         activate server
-        server >>> browser: HTML document
+        server->>browser: HTML document
         deactivate server
     
         browser ->> server : GET https://studies.cs.helsinki.fi/exampleapp/main.css
