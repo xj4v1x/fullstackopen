@@ -8,8 +8,7 @@ https://studies.cs.helsinki.fi/exampleapp/notes
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/notes                    
     server->>browser: HTML document            
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
-    server->>browser: CSS document
-    Note right of browser: The browser starts executing the JavaScript code that fetches the JSON from the server
+    server->>browser: CSS document    
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
     server->>browser: JS document
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
@@ -27,7 +26,7 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.css
     server->>browser: CSS document
-
+    Note right of browser: The browser starts executing the JavaScript code that fetches the JSON from the server
     browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/main.js
     server->>browser: JS document
 
