@@ -5,5 +5,5 @@
 ### Ejercicios
 [Ejercicios 1.1.-1.2](https://fullstackopen.com/es/part1/introduccion_a_react#ejercicios-1-1-1-2)
 
----
+
 ## 1.b [JavaScript](https://fullstackopen.com/es/part1/java_script)
